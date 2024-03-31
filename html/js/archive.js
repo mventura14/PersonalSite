@@ -1,5 +1,6 @@
 
 
+
    (() => {
 "use strict"
 
@@ -31,7 +32,7 @@
       })
 
       allCards[0].addEventListener('click', ()=>{
-         previewFrame.src = 'archive/components/comp-01/component02.html'
+         previewFrame.src = 'archive/components/comp-02/component02.html'
       })
       
 

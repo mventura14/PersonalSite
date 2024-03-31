@@ -41,7 +41,7 @@
     resize: both;
     overflow: hidden;
     border: none;
-    border-radius: 15px;
+    border-radius: 15px 15px 0 15px;
 
 
     &::backdrop {
